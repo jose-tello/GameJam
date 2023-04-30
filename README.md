@@ -7,6 +7,8 @@ player as the main obstacle, and the limitation is mirrored such that in order t
 actually get hit, which puts them in a state that destroys blocks faster. To remedy that, during such state, the player heals for
 every block they break.
 
+Link to the repository: https://github.com/jose-tello/GameJam
+
 # Controls
 
  - Movement: WASD / directional arrows
