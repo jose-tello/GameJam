@@ -17,13 +17,13 @@ every block they break.
 
 The team is composed by:
 
- - Nadine Gutiérrez: 
+ - Nadine Gutiérrez: VFX technical artist
 
- - José Luis Redondo: 
+ - José Luis Redondo: Generalist gameplay programmer
 
- - Oscar Pérez: 
+ - Oscar Pérez: Generalist gameplay programmer
 
- - Ferran-Roger Basart: designer and interaction-by-collision programmer
+ - Ferran-Roger Basart: Designer and interaction-by-collision programmer
 
 
 # Credits
