@@ -21,7 +21,7 @@ The team is composed by:
 
  - Nadine Gutiérrez: VFX technical artist
 
- - José Luis Redondo: Generalist gameplay programmer
+ - Jose Luis Redondo: Generalist gameplay programmer
 
  - Oscar Pérez: Generalist gameplay programmer
 
